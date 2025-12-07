@@ -219,18 +219,20 @@ The following screenshots show a real `.aix` capsule being executed inside ChatG
 This demonstrates deterministic parsing, menu display, user-confirmed execution,  
 and the complete LSAT pipeline output.
 
-### 1. Loading the `.aix` file and parsing capsule metadata
+## 📸 Real Execution Proof (Screenshots)
+
+The following screenshots show a real `.aix` capsule being executed inside ChatGPT.  
+This demonstrates deterministic parsing, menu display, user-confirmed execution,  
+and the complete LSAT pipeline output.
+
+### 1. Loading the `.aix` file, parsing capsule metadata and menu displayed
 ![Loading AIX Capsule](loading_pipeline_file.png)
 
-### 2. Menu displayed automatically per execution policy
-![Menu Display](full_pipeline_run_using_aix_file.png)
-
-### 3. Running the LSAT pipeline (deterministic output)
+### 2. Running the LSAT pipeline (deterministic output)
 ![LSAT Pipeline Output](full_pipeline_output.png)
 
-### 4. Histogram, score bands, and summary statistics
-![Pipeline Output Continued](pipeline_output.png)
-
+### 3. Menu displayed automatically per execution policy
+![Menu Display](full_pipeline_run_using_aix_file.png)
 
 ---
 
