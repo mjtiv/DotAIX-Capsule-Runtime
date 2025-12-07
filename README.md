@@ -231,8 +231,8 @@ and the complete LSAT pipeline output.
 ### 2. Running the LSAT pipeline (deterministic output)
 ![LSAT Pipeline Output](full_pipeline_output.png)
 
-### 3. Menu displayed automatically per execution policy
-![Menu Display](full_pipeline_run_using_aix_file.png)
+### 3. Full Pipeline Run A-Z
+![Full Pipleline](full_pipeline_run_using_aix_file.png)
 
 ---
 
